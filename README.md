@@ -15,7 +15,7 @@ Token 2022 Bot is a Solana-based project designed to automatically airdrop token
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
 - A Solana wallet with sufficient SOL for transaction fees
-- Token 2022 created and deployed on the Solana blockchain
+- Token 2022 was created and deployed on the Solana blockchain
 
 ## Installation
 
